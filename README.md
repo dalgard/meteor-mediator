@@ -1,4 +1,3 @@
-meteor-mediator
-===============
+http://thejacklawson.com/Mediator.js/
 
-Mediator.js repackaged for Meteor
+**N.B.** This package exports an instance of Mediator. The original class is exposed through the `constructor` property.
